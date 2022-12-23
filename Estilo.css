@@ -1,0 +1,191 @@
+.contenedor {
+    background-color: rgb(55, 236, 194);
+    margin: auto;
+    width: 20%;
+    height: auto;
+    text-align: center
+}
+
+
+
+.title {
+    text-align;
+    center;
+
+        {}
+}
+
+.cuadrado {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(250, 10, 6);
+    margin-left: 200px;
+    margin-top: 100px;
+
+
+    left: 200px;
+    margin: auto;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 15%;
+
+
+
+}
+
+.cuadrado2 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(9, 6, 0);
+    margin: auto;
+    border-radius: 5%;
+
+
+
+}
+
+
+
+.cuadradopeque {
+    width: 30px;
+    height: 40px;
+    background-color: rgb(61, 233, 104);
+
+margin-left: 10px;
+padding-top: 60px;
+
+
+}
+
+
+
+.cuadradopequea {
+    width: 30px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-left: 60px;
+    margin-top: -90px;
+    padding-top: 10px;
+    
+
+
+
+}
+
+
+
+.cuadradopequeb {
+    width: 30px;
+    height: 60px;
+    background-color: rgb(112, 23, 8);
+    margin: auto;
+    margin-left: 110px;
+    margin-top: -60px;
+
+
+
+}
+
+
+
+
+.cuadrado3 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(34, 34, 34);
+    margin: auto;
+    border-radius: 5%;
+  
+
+
+}
+
+
+
+
+.rectangulo1 {
+
+    width: 80px;
+    height: 60px;
+    background-color: rgb(215, 19, 19);
+    margin-left: 10px;
+    margin-top: -50px;
+    margin-bottom: 5px;
+    padding-top: -10%;
+
+
+
+
+}
+
+
+
+
+
+
+
+.rectangulocroacia1 {
+
+    width: 80px;
+    height: 20px;
+    background-color: rgb(29, 135, 67);
+    margin-left: 110px;
+    margin-top: 50px;
+   
+
+
+
+
+}
+
+.rectangulocroacia2 {
+
+    width: 80px;
+    height: 20px;
+    background-color: rgb(252, 252, 252);
+    margin-left: 110px;
+    margin-top:
+
+
+}
+
+.rectangulocroacia3 {
+
+    width: 80px;
+    height: 20px;
+    background-color: rgb(29, 17, 255);
+    margin-left: 110px;
+
+
+}
+
+
+
+
+
+
+
+
+.cuadrado33 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(84, 36, 36);
+    margin: auto;
+
+    border-radius: 5%;
+}
+
+
+.img2 {
+
+    margin: auto;
+    border-radius: 20%;
+
+}
